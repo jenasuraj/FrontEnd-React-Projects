@@ -2,20 +2,6 @@
 
 This repository contains a collection of frontend and web development projects built using HTML, CSS, and JavaScript. Each project demonstrates different aspects of web development, such as interactive components, user interfaces, and application logic.
 
-## Table of Contents
-
-- [Projects](#projects)
-  - [Image Slider](#image-slider)
-  - [Note App](#note-app)
-  - [Quiz App](#quiz-app)
-  - [Random Color Generator](#random-color-generator)
-  - [Star Rating](#star-rating)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## Projects
 
