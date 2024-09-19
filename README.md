@@ -16,7 +16,6 @@ This repository contains a collection of frontend and web development projects b
 - Slide through images with smooth transitions
 - Keyboard navigation (left/right arrows)
 
-**Preview**: ![Image Slider Preview](images/image-slider.png)
 
 ### 2. Note App
 
@@ -29,7 +28,7 @@ This repository contains a collection of frontend and web development projects b
 - Save notes to the browser's local storage
 - Responsive design for mobile and desktop
 
-**Preview**: ![Note App Preview](images/note-app.png)
+
 
 ### 3. Quiz App
 
@@ -42,7 +41,7 @@ This repository contains a collection of frontend and web development projects b
 - Display quiz score and results at the end
 - Responsive UI for both mobile and desktop
 
-**Preview**: ![Quiz App Preview](images/quiz-app.png)
+
 
 ### 4. Random Color Generator
 
@@ -55,7 +54,6 @@ This repository contains a collection of frontend and web development projects b
 - Displays hex color code
 - Dynamically changes the background to match the generated color
 
-**Preview**: ![Random Color Generator Preview](images/random-color-generator.png)
 
 ### 5. Star Rating
 
@@ -68,7 +66,11 @@ This repository contains a collection of frontend and web development projects b
 - Visual feedback based on rating
 - Clean and simple UI
 
-**Preview**: ![Star Rating Preview](images/star-rating.png)
+
+
+---
+
+<h1>And so many more projects are there...!!!</h1>
 
 ---
 
