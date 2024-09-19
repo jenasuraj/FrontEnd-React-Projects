@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html{
+  background-color: rgb(47, 46, 46);
+}
+.right,.left
+{
+  height: 30px;
+  width: 60px;
+  background-color: white;
+  color: black;
+  margin: 20px;
+cursor: pointer;
+}
+/* Slider.css */
+
+
+
+.slider-container {
+  position: relative;
+  width: 1000px; /* Match the image width */
+  height: 500px; /* Match the image height */
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-100%);
+  font-size: 3rem; /* Larger arrow size */
+  color: white; /* Arrow color */
+  padding: 10px;
+  cursor: pointer;
+  z-index: 10; /* Ensure arrows are above the image */
+  background-color: transparent; /* Transparent background */
+}
+
+.arrow.left {
+  left: 10px; /* Position on the left */
+}
+
+.arrow.right {
+  right: 10px; /* Position on the right */
+}
+
+.slider-wrapper {
+  display: flex;
+  transition: transform 0.2s ease-in-out; /* Smooth transition for sliding effect */
+  width: 100%;
+}
